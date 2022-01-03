@@ -1,0 +1,4 @@
+discord.js
+asyncio
+openpyxl
+youtube_dl

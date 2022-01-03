@@ -1,0 +1,1 @@
+worker: python bot.py web.py app.py
